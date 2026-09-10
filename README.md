@@ -1,4 +1,9 @@
 # SIGET – Simulador de Planificación de Procesos
+## 🎥 Video de evidencia
+
+En el siguiente enlace se puede visualizar la explicación y ejecución del simulador:
+
+[Ver video de evidencia - Grupo 5](https://drive.google.com/file/d/1nBdsAAXcE3RWpHHvI6W9CClbTX1jk43T/view)
 
 ## Descripción
 
